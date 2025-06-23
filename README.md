@@ -38,7 +38,7 @@ This repository provides a starter template for beginner-friendly full-stack app
 ## 🚀 Getting Started
 
 1. Install [Docker](https://docs.docker.com/engine/)
-2. Close this repository
+2. Clone this repository
 
 
 ```sh
