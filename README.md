@@ -1,8 +1,8 @@
-# 🧪 Full-Stack Project Template: React + Flask + PostgreSQL (Dockerized)
+## 🧪 Full-Stack Project Template: React + Flask + PostgreSQL (Dockerized)
 
 This repository provides a starter template for beginner-friendly full-stack applications using React (frontend), Python Flask (backend), and PostgreSQL (database).
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```sh
 .
@@ -12,7 +12,7 @@ This repository provides a starter template for beginner-friendly full-stack app
 
 ```
 
-# Backend (Flask)
+## Backend (Flask)
 
 - app.py: Entry point for the Flask app
 
@@ -27,7 +27,7 @@ This repository provides a starter template for beginner-friendly full-stack app
 - requirements.txt: Python dependencies
 
 
-# Frontend (React)
+## Frontend (React)
 
 - src/: Main React app codebase
 
@@ -35,7 +35,7 @@ This repository provides a starter template for beginner-friendly full-stack app
 
 - package.json: JavaScript dependencies
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 1. Install [Docker](https://docs.docker.com/engine/)
 2. Close this repository
@@ -75,14 +75,20 @@ npm run dev                 # Start the React dev server
  - Backend: `http://localhost:5000`
 
 
-# 🧰 Tools & Technologies
+> ⚠️ **Warning**  
+> This repository is intended as a _template project only_. Do not use it in production without proper customization, security reviews, and testing.
+
+
+
+
+## 🧰 Tools & Technologies
 
 - React + Vite
 - Python Flask + SQLAlchemy
 - PostgreSQL
 - Docker + Docker Compose
 
-# 🧑‍🎓 Perfect for Students
+## 🧑‍🎓 Perfect for Students
 
 Whether you're building your first CRUD app or experimenting with APIs and databases, this template is designed to remove setup headaches so you can focus on learning and building. It offers:
 
@@ -96,6 +102,6 @@ Whether you're building your first CRUD app or experimenting with APIs and datab
 
 - Easy-to-follow setup via Docker Compose so students can run everything with a single command, even without deep DevOps knowledge.
 
-# 💡 Ideas for Improvement & Contributions
+## 💡 Ideas for Improvement & Contributions
 
 This template is a living project—built to grow alongside its users. Student developers and contributors are encouraged to experiment, enhance, and share their ideas to make it even better.
